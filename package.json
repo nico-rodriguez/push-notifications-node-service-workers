@@ -1,0 +1,21 @@
+{
+  "name": "push-notifications-node-service-workers",
+  "version": "1.0.0",
+  "description": "An example of push notifications with service workers and an Express server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Nicolás Rodríguez",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
