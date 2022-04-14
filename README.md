@@ -29,7 +29,7 @@ The server expects this keys to be in the environment variables `PUBLIC_VAPID_KE
 
 ### Browser notifications
 
-While the server is running, browsing to [http://localhost:3000](http://localhost:3000) gives a simple web page which requests for allowing notifications. Notice that browsing in incognito mode or with JavaScript disabled prevents this request. After the notifications are allowed, one is displayed like in the image below
+While the server is running, browsing to [http://localhost:3000](http://localhost:3000) gives a simple web page which requests for allowing notifications. Notice that browsing in incognito mode or with JavaScript disabled prevents this request. After the notifications are allowed, one is displayed like in the image below (notice the custom icon)
 
 ![screenshoot](screenshoot.jpg)
 

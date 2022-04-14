@@ -5,7 +5,7 @@ self.addEventListener('push', (event) => {
   console.log('Push received!');
   self.registration.showNotification(data.title, {
     body: 'New notification!',
-    icon: './notification.png',
+    icon: '/notification.png',
   });
 });
 
